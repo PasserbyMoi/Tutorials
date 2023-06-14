@@ -88,8 +88,8 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'discord', link: 'https://ensoul.club/' },
       { icon: 'slack', link: 'https://ensoul.club/' },
+      { icon: 'discord', link: 'https://discord.gg/cMPQAHKB' },
       { icon: 'github', link: 'https://github.com/PasserbyMoi/Tutorials.git' },
       {
         icon: {
