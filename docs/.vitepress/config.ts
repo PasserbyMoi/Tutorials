@@ -108,7 +108,7 @@ export default defineConfig({
 
     // 编辑链接允许您显示一个链接，用于在 Git 管理服务（如 GitHub 或 GitLab）上编辑页面。
     editLink: {
-      pattern: 'https://github.com/PasserbyMoi/Tutorials/develop/docs/:path',
+      pattern: 'https://github.com/PasserbyMoi/Tutorials/edit/develop/docs/:path',
       text: '编辑此页面'
     }
 
