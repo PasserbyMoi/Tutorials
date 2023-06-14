@@ -30,18 +30,23 @@ npm run docs:preview    # 本地预览
 # "docs:preview": "vitepress preview docs --port 8080"
 ```
 
----
-title: Devbox 的基本使用
-layout: doc  # doc page home doc
-editLink: true
-lastUpdated: true
-prev:
-  text: 'Markdown'
-  link: '/guide/markdown'
-next:
-  text: 'Markdown'
-  link: '/guide/markdown'
----
+
+### **Layout**
+
+```markdown
+---  
+title: Devbox 的基本使用  
+layout: doc  # doc page home doc  
+editLink: true  
+lastUpdated: true  
+prev:  
+  text: 'Markdown'  
+  link: '/guide/markdown'  
+next:  
+  text: 'Markdown'  
+  link: '/guide/markdown'  
+---  
+```
 
 
 
